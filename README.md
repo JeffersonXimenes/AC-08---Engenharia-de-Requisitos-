@@ -1,7 +1,8 @@
- AC-08  Engenharia-de-Requisitos
+ 																																									AC-08  Engenharia-de-Requisitos
  
- Artefatos apresentados nesse repositório:
- ●	Fechamento dos artefatos da OPE.
+																																					Artefatos apresentados nesse repositório:
+
+●	Fechamento dos artefatos da OPE.
 o	Geral
 ▪	Declaração do Escopo
 ▪	Integrantes do Projeto
