@@ -10,19 +10,19 @@ o	Geral
 ▪	Referências
 ▪	Lista de Necessidades
 
-o	Análise do Problema
+●	Análise do Problema
 ▪	Declaração do Problema
 ▪	Análise das Causas Raízes
 ▪	Usuários e Outros Stakeholders
 ▪	Fronteira Sistêmica
 ▪	Lista de Restrições
 
-o	Workshop de Características
+●	Workshop de Características
 ▪	Lista de Características com Descrição de cada Característica
 ▪	Lista de Características (Priorizada X Esforço X Risco X Baseline)
 ▪	Matriz de Rastreabilidade (Necessidades x Características)
 
-o	Modelagem de Negócio
+●	Modelagem de Negócio
 ▪	Arquitetura de Negócio para cada Cenário
 ▪	DFD Essencial para cada Capacidade
 ▪	Análise dos Eventos para cada Cenário	
@@ -32,6 +32,7 @@ o	Modelagem de Negócio
 ▪	Análise do Ciclo de Vida
 ▪	Requisitos do Sistema (SSS)
 ▪	Matrizes de Rastreabilidade (Características x SSS)
+
 ●	Checklist da Engenharia de Requisitos.
 
 
